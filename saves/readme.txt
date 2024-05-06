@@ -1,0 +1,1 @@
+if saving does not work correctly change the windowsInstalling string to true
